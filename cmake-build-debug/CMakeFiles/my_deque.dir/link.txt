@@ -1,0 +1,1 @@
+/usr/bin/c++   -fsanitize=address -g   CMakeFiles/my_deque.dir/main.cpp.o  -o my_deque 

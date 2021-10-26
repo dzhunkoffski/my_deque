@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dzhunkoff/my_deque/Deque.h
+initializer_list
+-
+iostream
+-
+algorithm
+-
+memory
+-
+
+/home/dzhunkoff/my_deque/main.cpp
+vector
+-
+random
+-
+deque
+-
+cassert
+-
+iostream
+-
+Deque.h
+/home/dzhunkoff/my_deque/Deque.h
+

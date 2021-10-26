@@ -1,0 +1,3 @@
+/home/dzhunkoff/my_deque/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dzhunkoff/my_deque/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dzhunkoff/my_deque/cmake-build-debug/CMakeFiles/my_deque.dir
