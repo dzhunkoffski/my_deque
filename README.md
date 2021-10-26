@@ -4,3 +4,10 @@
 * Constructor from list of the initialization.
 * Constructor which gets size of the deque and fill it with zeroes.
 * Operators "=" copy and move.
+* Destructor.
+* Swap.
+* Operators "[]".
+* Size.
+* PushBack, PopBack.
+* PopBack, PopFront.
+* Clear.
